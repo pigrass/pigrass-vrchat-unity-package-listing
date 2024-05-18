@@ -14,7 +14,13 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "bdunderscore/modular-avatar"
+        "Thryrallo/VRC-Avatar-Performance-Tools"
+        "SaturnianJP/NewKiseteneExVPM"
+        "gatosyocora/MeshDeleterWithTexture"
+        "lilxyzw/lilToon"
+        "poiyomi/PoiyomiToonShader"
+        "SaturnianJP/AutoSaveScript-for-Unity"
     ],
     "packages":[
         {
