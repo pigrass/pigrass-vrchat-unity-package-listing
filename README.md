@@ -1,3 +1,5 @@
+教程网页 https://vcc.docs.vrchat.com/guides/create-listing/
+
 # VPM Package Listing Template
 
 Starter for making your own Package Listings, including automation for building and publishing them.
